@@ -1,4 +1,7 @@
+
 ## Fullstack Twitter Clone 
+### Frontend hosted link : [frontend](https://twitter-clone-bl5o65inj-vatsalsharma376.vercel.app/)
+Still working on backend hosting
 ## Uploading image
 ![image](https://github.com/vatsalsharma376/twitter-clone/assets/7700014/4c8b4c24-b240-44e7-8b99-973a156e0abb)
 
