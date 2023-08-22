@@ -10,7 +10,7 @@ import tweetRoutes from "./routes/tweets.js";
 
 const app = express();
 dotenv.config();
-
+// server restart
 const connect = () => {
   mongoose.set("strictQuery", false);
   mongoose
